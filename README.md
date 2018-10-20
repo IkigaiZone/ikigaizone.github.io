@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Ikigai Zone
 
-You can use the [editor on GitHub](https://github.com/IkigaiZone/ikigaizone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Ikigai Zone is a project that aims to bring humanity and purpose back to knowledge work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is Ikigai ?
 
-### Markdown
+> **Ikigai** (生き甲斐,) is a Japanese term for "a reason for being." The word ‘Ikigai’ usually refers to the source of value in one's life or the things that make one's life worthwhile. The word roughly translates to the "thing that you live for" but it also has the nuance of "the reason for which you wake up in the morning" similar to a daily purpose. Each individual's ikigai is personal to them and specific to their lives, values and beliefs. It reflects the inner self of an individual and expresses that faithfully, while simultaneously creating a mental state in which the individual feels at ease. Activities that allow one to feel ikigai are never forced on an individual; they are often spontaneous, and always undertaken willingly, giving the individual satisfaction and a sense of meaning to life.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IkigaiZone/ikigaizone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(Source: [wikipedia](https://en.wikipedia.org/wiki/Ikigai))
